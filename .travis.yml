@@ -4,5 +4,3 @@ deploy:
   api_key: "2a13d08acc0816395e39ef0a60d6c4558f16d483"
   file: "/home/travis/build/kyvaith/CERMINE/cermine-web/target/cermine-web-1.14-SNAPSHOT-sources.jar"
   skip_cleanup: true
-  on:
-    tags: true
